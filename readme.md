@@ -5,11 +5,15 @@ VKInder - небольшой бот, написанный на Python, позв�
 ### Требования
 * Python3.10 или выше
 * PostgreSQL
-### Установка
+### Загрузка
 Linux:
-
 ```Linux
 git clone https://github.com/chilya02/VKInder.git
+```
+### Установка зависимостей
+
+```linux
+pip install -r pip_requirements.txt
 ```
 
 ### Настройка
@@ -32,6 +36,7 @@ DB_USER = ''            #Пользователь БД
 DB_USER_PASSWORD = ''   #Пароль пользователя БД
 ```
 ### Запуск 
+Linux:
 ```Terminal
-Python bot.py
+python bot.py
 ```
