@@ -1,17 +1,16 @@
 # VKInder
 ## Описание приложения
 VKInder - небольшой бот, написанный на Python, позваляющий искать тебе собеседников противоположного пола твоего возраста из твоего города :)
-
 ## Использование 
 ### Требования
 * Python3.10 или выше
 * PostgreSQL
 ### Установка
-
 Linux:
+
+```git clone https://github.com/chilya02/VKInder.git
 ```
-git clone https://github.com/chilya02/VKInder.git
-```
+
 ### Настройка
 Файл `bot_config.py`:
 ```Python
