@@ -31,3 +31,7 @@ DB_HOST_NAME = ''       #Сервер БД
 DB_USER = ''            #Пользователь БД
 DB_USER_PASSWORD = ''   #Пароль пользователя БД
 ```
+### Запуск 
+```Terminal
+Python bot.py
+```
