@@ -8,7 +8,8 @@ VKInder - небольшой бот, написанный на Python, позв�
 ### Установка
 Linux:
 
-```git clone https://github.com/chilya02/VKInder.git
+```Linux
+git clone https://github.com/chilya02/VKInder.git
 ```
 
 ### Настройка
